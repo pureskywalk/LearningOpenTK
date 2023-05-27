@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce5cd75d-8626-4cd8-83fc-b7a4868daec0": {
+      "ProjectGuid": "ce5cd75d-8626-4cd8-83fc-b7a4868daec0",
+      "DisplayName": "OpenTK_RTExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

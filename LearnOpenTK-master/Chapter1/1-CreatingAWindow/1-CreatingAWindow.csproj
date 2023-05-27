@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LearnOpenTK</RootNamespace>
+    <AssemblyName>LearnOpenTK</AssemblyName>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETCore.Platforms" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Win32.SystemEvents" Version="4.7.0" />
+    <PackageReference Include="OpenTK" Version="4.4.0" />
+  </ItemGroup>
+</Project>
